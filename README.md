@@ -89,8 +89,8 @@ npm install
 npm run dev
 ```
 
-## 👨‍💻 Author
+## Author
 
-**Manish Kumar**
+Built by **Manish Kumar** | [GitHub](https://github.com/manishkum7)
 
-GitHub: [Manish](https://github.com/manishkum7)
+If you find a bug or have a suggestion, feel free to open an issue.
